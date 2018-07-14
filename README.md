@@ -1,8 +1,10 @@
 # Ship Movement Behaviour Modelled
 
-I have modified this starter ship simulator to illustrate certain concepts. 
+I modified this starter ship simulator to illustrate certain concepts. 
 
 You can change the camera to first person view. 
+
+Download / Clone the project folder. Open Ship_Behaviour_Modelling_HD.exe
 
 Navigation Instructions
 
